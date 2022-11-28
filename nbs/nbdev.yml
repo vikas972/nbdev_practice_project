@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_practice_project"
+  site-url: "https://vikas972.github.io/nbdev_practice_project"
+  description: "My First nbdev Project."
+  repo-branch: master
+  repo-url: "https://github.com/vikas972/nbdev_practice_project"
