@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_practice_project",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_practice_project",
+    "section": "Install",
+    "text": "Install\npip install nbdev_practice_project"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_practice_project",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "source\n\nadd\n\n add (a, b)\n\nThis will add 2 integer numbers\n\nadd(2,3)\n\nThe Addition of a and b is:5\n\n\n\ndef sub(a,b):\n    \"This will subtract 2 integer numbers\"\n    print(f\"The Difference of a and b is:{a-b}\")\n\n\nsub(2,3)\n\nThe Difference of a and b is:-1\n\n\n\ndef mult(a:int,# First number\n         b:int)->int:# Second number\n    \"This will multiply 2 integer numbers\"\n    print(f\"The Multiplication of a and b is:{a*b}\")\n\n\nmult(4,5)\n\nThe Multiplication of a and b is:20"
+  },
+  {
+    "objectID": "dp.html",
+    "href": "dp.html",
+    "title": "Dynamic Programming",
+    "section": "",
+    "text": "source\n\nfibo\n\n fibo (n)\n\n\nprint(fibo(10))\n\n55\n\n\n\nsource\n\n\nfact\n\n fact (n)\n\n\nprint(fact(5))\n\n120"
+  }
+]
